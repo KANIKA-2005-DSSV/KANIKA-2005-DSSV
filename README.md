@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kanikadhamija2805@gmail.com">📧 Email</a> &nbsp;·&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=kkanika1_be23@thapar.edu ">📧 Email</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/kanika-dhamija-6260b9319/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/KANIKA-2005-DSSV">GitHub</a>
 </p>
@@ -83,5 +83,5 @@ Currently exploring **Agentic AI** . I enjoy turning messy data into clear insig
 
 <p align="center">
   <i>Open to internship opportunities in AI/ML and Data Analytics.</i><br/>
-  <a href="mailto:kkanika1_be23@thapar.edu">Let's connect →</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=kkanika1_be23@thapar.edu ">Let's connect →</a>
 </p>
