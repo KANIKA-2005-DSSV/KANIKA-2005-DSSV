@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kkanika1_be23@thapar.edu">📧 Email</a> &nbsp;·&nbsp;
+  <a href="mailto:kanikadhamija2805@gmail.com">📧 Email</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/kanika-dhamija-6260b9319/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/KANIKA-2005-DSSV">GitHub</a>
 </p>
